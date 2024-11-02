@@ -1,0 +1,149 @@
+body {
+    height: 955px;
+    background-color: rgb(56, 56, 56);
+  }
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+
+#hidrogenio {width: 20px;
+    height: 20px;
+    background-color: rgb(3, 95, 95);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#gasesnobres {width: 20px;
+    height: 20px;
+    background-color: rgb(183, 0, 255);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#alcalinos {width: 20px;
+    height: 20px;
+    background-color: rgb(163, 80, 1);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#alcalinoterrosos {width: 20px;
+    height: 20px;
+    background-color: rgb(185, 121, 2);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#transicao {width: 20px;
+    height: 20px;
+    background-color: rgb(179, 179, 1);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#representa {width: 20px;
+    height: 20px;
+    background-color: green;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#semimetal {width: 20px;
+    height: 20px;
+    background-color: rgb(3, 201, 69);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#ametais {width: 20px;
+    height: 20px;
+    background-color: rgb(133, 3, 3);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;;}
+
+#halogenios {width: 20px;
+    height: 20px;
+    background-color: purple;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#lantanidios {width: 20px;
+    height: 20px;
+    background-color: rgb(88, 59, 252);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+#actinidios {width: 20px;
+    height: 20px;
+    background-color: rgb(32, 154, 255);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;}
+
+table {
+    width: 100%;
+    height: 80%;
+    border: none;
+}   
+
+td {
+    width:5%;
+    height: 10%; 
+    border: solid white;
+    color: white;
+    text-align: center;
+}
+
+.letra {
+    font-size: 20px;
+}
+
+.borderless{
+    border:none;
+}
+
+.numero {
+    text-align: left;
+}   
+
+.hidrogenio {
+    background-color: rgb(3, 95, 95);
+}
+
+.gasesnobres {
+    background-color: rgb(183, 0, 255);
+}
+
+.alcalinos {
+    background-color: rgb(163, 80, 1);
+}
+
+.alcalinoterrosos {
+    background-color: rgb(185, 121, 2);
+}
+
+.lantanidios {
+    background-color: rgb(88, 59, 252);
+}
+
+.actinidios {
+    background-color: rgb(32, 154, 255);
+}
+
+.halogenio {
+    background-color: purple;
+}
+
+.ametais {
+    background-color: rgb(133, 3, 3);
+}
+
+.transiçao {
+    background-color: rgb(179, 179, 1);
+}
+
+.representa {
+    background-color: green;
+}
+
+.semimetal {
+    background-color: rgb(3, 201, 69);
+}
+
+p { margin: 0;}
+
